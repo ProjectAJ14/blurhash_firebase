@@ -1,0 +1,16 @@
+{
+
+    // show line rulers
+    "editor.rulers": [
+        80
+    ],
+    // TO sort imports on save
+    "editor.codeActionsOnSave": {
+        // "source.organizeImports": true,
+        "source.fixAll.eslint": true
+    },
+    "cSpell.words": [
+        "Firestore",
+        "signup"
+    ],
+}

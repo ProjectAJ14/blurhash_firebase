@@ -1,6 +1,6 @@
 {
   "name": "blurhash_firebase",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "For creating the blurhash for images uploaded on Firebase Storage.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
